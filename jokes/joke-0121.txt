@@ -1,0 +1,1 @@
+Joke #121: Why did commit 121 cross the repo? To reach the remote on the other side.

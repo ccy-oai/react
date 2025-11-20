@@ -1,0 +1,1 @@
+Joke #688: Why did code review 688 take all day? Comments had subthreads.

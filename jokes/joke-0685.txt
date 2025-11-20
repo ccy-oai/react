@@ -1,0 +1,1 @@
+Joke #685: Why did build 685 pass? It forgot to run the tests.

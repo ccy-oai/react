@@ -1,0 +1,1 @@
+Joke #1: Why did commit 1 cross the repo? To reach the remote on the other side.

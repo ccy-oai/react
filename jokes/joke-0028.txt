@@ -1,0 +1,1 @@
+Joke #28: Why did code review 28 take all day? Comments had subthreads.

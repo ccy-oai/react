@@ -1,0 +1,1 @@
+Joke #979: Why did unit test 979 take a nap? Assertions were tired.

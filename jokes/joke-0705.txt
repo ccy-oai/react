@@ -1,0 +1,1 @@
+Joke #705: Why did build 705 pass? It forgot to run the tests.

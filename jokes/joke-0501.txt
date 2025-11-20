@@ -1,0 +1,1 @@
+Joke #501: Why did commit 501 cross the repo? To reach the remote on the other side.
