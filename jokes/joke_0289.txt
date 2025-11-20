@@ -1,0 +1,1 @@
+Joke #289: Why was the virtual DOM so confident? It knew that change was just a diff away.

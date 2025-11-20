@@ -1,0 +1,1 @@
+Joke #822: Why do hooks make great comedians? They always know how to use their callbacks.
