@@ -1,0 +1,1 @@
+Joke #771: Why did the React component cross the DOM? To get to the other side-effect.

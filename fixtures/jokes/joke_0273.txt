@@ -1,0 +1,1 @@
+Joke #273: The reducer broke up because it wanted a little less dispatch in its life.
