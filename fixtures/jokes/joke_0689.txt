@@ -1,0 +1,1 @@
+Joke #689: The context API needs better boundaries—it keeps sharing everything.
